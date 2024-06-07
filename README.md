@@ -1,2 +1,8 @@
 # cit281-lab6
-Getting started with git 
+Working with classes 
+
+The files for this lab include:
+
+lab-06.js
+
+Back to [**CIT281**](https://opyle.github.io/CIT281/)
